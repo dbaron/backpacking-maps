@@ -1,0 +1,5 @@
+aotea.gpx
+kepler.gpx
+rakiura.gpx
+yosemite2017.gpx
+yosemite2018.gpx
